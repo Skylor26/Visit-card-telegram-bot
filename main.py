@@ -2,7 +2,7 @@ import telebot
 from info import my_information, contacts
 
 
-token = '6703162360:AAFpSbUBJ7i6uQIUMgyqiQCK0E8FKTpFkGY'
+token = 'Your Token'
 bot = telebot.TeleBot(token)
 
 
